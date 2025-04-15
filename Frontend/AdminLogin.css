@@ -1,0 +1,365 @@
+.allelementscenterstyle {
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    border-radius: 10px;
+    position:absolute;
+    top:25%;
+    left:38%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.acnfms {
+    position: absolute;
+    top: 75%;
+    left:41%;
+    color: red;
+    width: 300px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.apnbs {
+    width: 500px;
+    height: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    align-items: center;
+}
+
+.navbarbuttonstyle {
+    background: none;
+    border: none;
+}
+
+.navbarbuttonstyle:hover {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    color: blue;
+}
+
+.apibs {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    background-color: white;
+    border: none;
+}
+
+.apis {
+    height: 50px;
+    width: 50px;
+}
+
+.aabs {
+    border: none;
+    background-color: none;
+}
+
+.aabms {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.tgaes {
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.tgasbs {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+}
+
+.tgarbs {
+    position: absolute;
+    top: 80%;
+    left:65%;
+}
+
+.apdhcs {
+    position:absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.apdcs {
+    border: none;
+    background-color: white;
+    font-size: 30px;
+    color: grey;
+}
+
+.tgams {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.cdaems {
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.cdasbs {
+    position: absolute;
+    top: 70%;
+    left: 35%;
+}
+
+.cdarbs {
+    position: absolute;
+    top: 70%;
+    left:65%;
+}
+
+.cdams {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.ddaes {
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.ddasbs {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+}
+
+.ddarbs {
+    position: absolute;
+    top: 80%;
+    left:65%;
+}
+
+.aaes {
+    width: 500px;
+    height: 340px;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.ddams {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.tourguideaddpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.cardetailsaddpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.driverdetailsaddpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.adminaddpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.aams {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.ulbs {
+    position: absolute;
+    top:10%;
+    left:80%;
+}
+
+.ulbts {
+    text-decoration: none;
+    color: white;
+}
+
+.alhhbs {
+    text-decoration: none;
+}
+
+.tourguideaddagemessagestyle {
+    position: absolute;
+    top: 35%;
+    left:80%;
+    color: red;
+    width: 200px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.tourguideaddphonenumbermessagestyle {
+    position: absolute;
+    top: 35%;
+    left:80%;
+    color: red;
+    width: 250px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.cardetailsaddcarnumbermessagestyle {
+    position: absolute;
+    top: 35%;
+    left: 80%;
+    color: red;
+    width: 250px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.cardetailsaddyearofpurchasemessagestyle {
+    position: absolute;
+    top: 35%;
+    left: 78%;
+    color: red;
+    width: 300px;
+    height: 75px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.cardetailsaddyearofpurchasemessagetextstyle {
+    /*padding: 10px;*/
+    margin: 10px;
+}
+
+.driverdetailsaddagemessagestyle {
+    position: absolute;
+    top: 35%;
+    left: 78%;
+    color: red;
+    width: 300px;
+    height: 75px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.driverdetailsaddphonenumbermessagestyle {
+    position: absolute;
+    top: 35%;
+    left: 78%;
+    color: red;
+    width: 250px;
+    height: 75px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}

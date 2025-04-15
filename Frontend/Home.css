@@ -1,0 +1,50 @@
+.textbs {
+    text-decoration: none;
+}
+
+.textbl {
+    color: white;
+    text-decoration: none;
+}
+
+.lbs {
+    position: absolute;
+    top: 10%;
+    left: 85%
+}
+
+.sbs {
+    position: absolute;
+    top: 10%;
+    left:90%;
+}
+
+.chl {
+    text-decoration: none;
+}
+
+.ics {
+    width: 800px;
+    height: 400px;
+}
+
+.hdtbis {
+    height: 500px;
+    width: 300px;
+    margin: 15px;
+}
+
+.tpotbis {
+    height: 350px;
+    width: 500px;
+    margin: 15px;
+}
+
+.hpes {
+    margin: 20px;
+}
+
+.aues {
+    color: white;
+    background-color: blue;
+}

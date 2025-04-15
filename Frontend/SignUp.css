@@ -1,0 +1,76 @@
+#centerelements {
+    width: 500px;
+    height: 300px;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+#eos {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+#uos {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+}
+
+#pos {
+    position: absolute;
+    top: 55%;
+    left: 25%;
+}
+
+.ss {
+    position: absolute;
+    top: 70%;
+    left: 45%;
+}
+
+.signupms {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.signupsms {
+    padding: 20px;
+    margin: 20px;
+}
+
+.stls {
+    text-decoration:none;
+}
+
+.existsms {
+    position: absolute;
+    top: 75%;
+    left:38%;
+    color: red;
+    width: 400px;
+    height: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.existssms {
+    padding: 20px;
+    margin: 20px;
+}

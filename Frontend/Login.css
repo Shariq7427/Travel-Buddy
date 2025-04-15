@@ -1,0 +1,503 @@
+#center {
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    border-radius: 10px;
+    position:absolute;
+    top:25%;
+    left:38%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+#us {
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+
+#ps {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+.sbs {
+    position: absolute;
+    top: 55%;
+    left: 43%;
+}
+
+input {
+    border-radius: 5px;
+}
+
+/* User Page Style */
+
+.nbs {
+    background: none;
+    border: none;
+}
+
+.nbs:hover {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    color: blue;
+}
+
+/* Request Page Style */
+
+.rbs {
+    width: 400px;
+    height: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    position: absolute;
+    top: 30%;
+    left:40%;
+    align-items: center;
+}
+
+.mrs {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+.ybs {
+    position: absolute;
+    top:50%;
+    left:35%;
+}
+
+.nobs {
+    position: absolute;
+    top:50%;
+    left:55%;
+}
+
+.nrds {
+    width: 400px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    position: absolute;
+    top: 30%;
+    left:40%;
+    align-items: center;   
+}
+
+.responsems {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.responsemss {
+    padding: 20px;
+    margin: 20px;
+}
+
+.upiss {
+    height: 50px;
+    width: 50px;
+}
+
+.upibss {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    background-color: white;
+    border: none;
+}
+
+.upibss:hover {
+    border-color: blue;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.userprofileimagestyle {
+    height: 100px;
+    max-width: 100px;
+}
+
+.upces {
+    align-items: center;
+}
+
+.uphbs {
+    border: none;
+    background-color: white;
+    font-size: 30px;
+    color: grey;
+}
+
+.uphbs:hover {
+    border: grey;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.updchs {
+    position:absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.ntdms {
+    width: 400px;
+    height: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    position: absolute;
+    top: 30%;
+    left:40%;
+    align-items: center;
+}
+
+.etbs {
+    position: absolute;
+    top: 86%;
+    left: 70%;
+}
+
+/* UserProfile Page Styling */
+.nsn {
+    width: 350px;
+    height: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    align-items: center;
+}
+
+.nsa {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    margin: 8px;
+}
+
+.osd {
+    width: 400px;
+    height: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    align-items: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+.nsa:hover {
+color: blue;
+}
+.btnsty{
+    color:white;
+    text-decoration: none;
+}
+
+/* Dashboard Page Styling */
+.tss {
+    width: 1000px;
+    position: absolute;
+    left: 17%;
+}
+
+.uneess {
+    padding:5px;
+    margin:5px;
+}
+
+.iums {
+    color: red;
+    width: 450px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+    margin-left: 580px;
+}
+
+.hasrequestmessagestyle {
+    color: red;
+    width: 700px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+    margin-left: 450px;
+}
+
+.onerequestmessagestyle {
+    color: red;
+    width: 750px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+    margin-left: 400px;
+}
+
+.yourselfrequestmessagestyle {
+    color: red;
+    width: 500px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+    margin-left: 550px;
+}
+
+.requestsentmessagestyle {
+    color: green;
+    width: 650px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+    margin-left: 500px;
+}
+
+/* Application Page Styling */
+.mainboxstyle {
+    width:700px;
+    height:500px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    position: absolute;
+    top: 25%;
+    left: 28%;
+    border-radius: 10px;
+}
+
+.submitbs {
+    position: absolute;
+    left:30%;
+}
+
+.resetbs {
+    position: absolute;
+    left:60%;
+}
+
+.messagess {
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: green;
+    width: 400px;
+    height: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:green;
+    border-radius:5px;
+}
+
+.existsss {
+    position: absolute;
+    top: 30%;
+    left:75%;
+    color: red;
+    width: 350px;
+    height: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.applicationpagefieldelementsstyle {
+    /*padding-left: 5px;*/
+    margin-left: 10px;
+}
+
+.existsssms {
+    /*padding: 5px;*/
+    margin:5px;
+}
+
+.filledmessagestyle {
+    position: absolute;
+    top: 30%;
+    left:75%;
+    color: red;
+    width: 350px;
+    height: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.filledmessagesentencestyle {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.joinedmessagestyle {
+    position: absolute;
+    top: 30%;
+    left:75%;
+    color: red;
+    width: 350px;
+    height: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.requestpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.dashboardpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.applicationpagebackbuttonstyling {
+    text-decoration: none;
+    font-size:50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background: none;
+    border: none;
+    color: blue;
+}
+
+.ucnfms {
+    position: absolute;
+    top: 75%;
+    left:41%;
+    color: red;
+    width: 300px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.albs {
+    position: absolute;
+    top:10%;
+    left:80%;
+}
+
+.albats {
+    text-decoration: none;
+    color: white;
+}
+
+.usernamemessagestyle {
+    position: absolute;
+    top: 40%;
+    left:76%;
+    color: red;
+    width: 200px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.useragemessagestyle {
+    position: absolute;
+    top: 40%;
+    left:76%;
+    color: red;
+    width: 260px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.userphonenumbermessagestyle {
+    position: absolute;
+    top: 40%;
+    left:76%;
+    color: red;
+    width: 230px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+}
+
+.dashboardusernamemessage {
+    color: red;
+    width: 200px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+    margin-left: 550px;
+}
+
+.fillapplicationmessagestyle {
+    color: red;
+    width: 350px;
+    height: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    border:solid;
+    border-color:red;
+    border-radius:5px;
+    margin-left: 550px;
+}
+
+.hhbs {
+    text-decoration: none;
+}
